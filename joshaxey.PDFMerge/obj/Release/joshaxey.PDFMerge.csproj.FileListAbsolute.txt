@@ -1,0 +1,9 @@
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\obj\Release\joshaxey.PDFMerge.csprojResolveAssemblyReference.cache
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\obj\Release\joshaxey.PDFMerge.Properties.Resources.resources
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\obj\Release\joshaxey.PDFMerge.csproj.GenerateResource.Cache
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\obj\Release\joshaxey.PDFMerge.csproj.CoreCompileInputs.cache
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\bin\Release\joshaxey.PDFMerge.exe.config
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\bin\Release\joshaxey.PDFMerge.exe
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\bin\Release\joshaxey.PDFMerge.pdb
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\obj\Release\joshaxey.PDFMerge.exe
+C:\Users\joshuaa\Documents\GitHub\Simple-PDFMerge\joshaxey.PDFMerge\obj\Release\joshaxey.PDFMerge.pdb

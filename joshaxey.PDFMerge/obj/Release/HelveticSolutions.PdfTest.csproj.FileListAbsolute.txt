@@ -1,0 +1,14 @@
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Release\HelveticSolutions.PdfTest.exe
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Release\HelveticSolutions.PdfTest.pdb
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.Properties.Resources.resources
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.csproj.GenerateResource.Cache
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.exe
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.pdb
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Release\HelveticSolutions.PdfTest.exe
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Release\HelveticSolutions.PdfTest.pdb
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.csprojResolveAssemblyReference.cache
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.Properties.Resources.resources
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.csproj.GenerateResource.Cache
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.exe
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\HelveticSolutions.PdfTest.pdb
+C:\Users\axey\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Release\me.AxeyWorks.PDFMerge.Properties.Resources.resources

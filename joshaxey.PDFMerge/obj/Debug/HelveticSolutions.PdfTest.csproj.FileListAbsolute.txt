@@ -1,0 +1,10 @@
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Debug\HelveticSolutions.PdfTest.exe
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Debug\HelveticSolutions.PdfTest.pdb
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Debug\HelveticSolutions.PdfLibrary.dll
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Debug\itextsharp.dll
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\bin\Debug\HelveticSolutions.PdfLibrary.pdb
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Debug\HelveticSolutions.PdfTest.csprojResolveAssemblyReference.cache
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Debug\HelveticSolutions.PdfTest.Properties.Resources.resources
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Debug\HelveticSolutions.PdfTest.csproj.GenerateResource.Cache
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Debug\HelveticSolutions.PdfTest.exe
+C:\Users\joshuaa\Desktop\HelveticSolutions.PdfMerger\HelveticSolutions.PdfTest\obj\Debug\HelveticSolutions.PdfTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\axey\Desktop\PDFMerge\me.AxeyWorks.PDFMerge\bin\Debug\me.AxeyWorks.PDFMerge.exe
+C:\Users\axey\Desktop\PDFMerge\me.AxeyWorks.PDFMerge\bin\Debug\me.AxeyWorks.PDFMerge.pdb
+C:\Users\axey\Desktop\PDFMerge\me.AxeyWorks.PDFMerge\obj\Debug\me.AxeyWorks.PDFMerge.Properties.Resources.resources
+C:\Users\axey\Desktop\PDFMerge\me.AxeyWorks.PDFMerge\obj\Debug\me.AxeyWorks.PDFMerge.csproj.GenerateResource.Cache
+C:\Users\axey\Desktop\PDFMerge\me.AxeyWorks.PDFMerge\obj\Debug\me.AxeyWorks.PDFMerge.exe
+C:\Users\axey\Desktop\PDFMerge\me.AxeyWorks.PDFMerge\obj\Debug\me.AxeyWorks.PDFMerge.pdb
